@@ -1,7 +1,7 @@
 ======================================================================
 
-	  Website Template Name: AAWC
-	  Website Template URI: http://www.aawc.com/free-templates/
+	  Website Template Name: AAWC NGO
+	  Website Sample URI: https://www.wordpress-outsourcing-partners.com/samples/aawc/
 	  Version: 1
 	  Author: Devender Kumar
 	  Author URI: http://www.devenderkumar.com/
